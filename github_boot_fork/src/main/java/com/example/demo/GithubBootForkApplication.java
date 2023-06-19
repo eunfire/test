@@ -10,6 +10,7 @@ public class GithubBootForkApplication {
 		SpringApplication.run(GithubBootForkApplication.class, args);
 		System.out.println("다같이 같은조 기원");
 	}
-	//안녕하세요(하준철)
+
+조원 김하영 <추가>
 
 }
