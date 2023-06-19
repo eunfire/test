@@ -8,6 +8,7 @@ public class GithubBootForkApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(GithubBootForkApplication.class, args);
+		System.out.println("다같이 같은조 기원");
 	}
 	//안녕하세요(하준철)
 
